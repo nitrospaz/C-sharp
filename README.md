@@ -1,2 +1,2 @@
 # C-sharp
-Random code snipits.
+Code snipits.
